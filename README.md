@@ -6,13 +6,13 @@ Discord: DIPΘKΛL HHJ#1871
 Personal Email: 3457xc@gmail.com  
 SemiColon Email: hhj@smcolon.kr  
 DeVent Email: hhj@devent.kr  
-HomePage: [HHJ]<https://hhj.devent.kr>  
-Blog: [DeVent BLOG]<https://devent.tistory.com>  
+HomePage: [HHJ](https://hhj.devent.kr)  
+Blog: [DeVent BLOG](https://devent.tistory.com)  
 
 
 #### 팀
-[세미콜론]<https://smcolon.kr>  
-[데벤트]<https://team.devent.kr>  
+[세미콜론](https://smcolon.kr)  
+[데벤트](https://team.devent.kr)  
 
 
 <!--
