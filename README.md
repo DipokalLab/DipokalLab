@@ -3,6 +3,12 @@
 이것저것 만드는거 좋아하는 평범한 고등학생입니다.   
   
 
+
+
+
+
+<!--
+
 ### 기념일 
 2018.11.18: DeVent 창립   
 2021.02.02: SNS 종료 (페이스북 및 기타 온라인 계정 53개 탈퇴)   
@@ -34,9 +40,6 @@ Blog: [BLOG](https://devent.tistory.com)
 [노션 페이지](https://www.notion.so/f0a6b4674eb9400399ed69d1275ca4d4?v=723d1c03d1ba4819afcd26151dba9136)   
 
 
-
-
-<!--
 Discord: DIPΘKΛL HHJ#1871  
 Personal Email: 3457xc@gmail.com  
 SemiColon Email: hhj@smcolon.kr  
