@@ -1,11 +1,13 @@
-# 반갑습니다! 👋. 
-안녕하세요. 디포칼 입니다.  
- 
-  
+<center>
 
+# 반갑습니다! 👋
+안녕하세요. 디포칼이란 닉네임으로 활동하고 있는 <a href="https://hhj.devent.kr/" target="_blank">허형준</a>입니다.
 
+<a href="https://hhj.devent.kr/" target="_blank"><img src="https://img.shields.io/badge/Project-000000?&logo=Notion&logoColor=ffffff"/></a> <a href="https://www.instagram.com/dipokal_hhj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=ffffff"/></a>
 
+![Dipokal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipokalLab&show_icons=true&theme=default)
 
+</center>  
 
 <!--
 
