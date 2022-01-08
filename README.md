@@ -1,4 +1,5 @@
-<center>
+<div align="center">
+
 
 # 반갑습니다! 👋
 안녕하세요. 디포칼이란 닉네임으로 활동하고 있는 <a href="https://hhj.devent.kr/" target="_blank">허형준</a>입니다.
@@ -7,7 +8,7 @@
 
 ![Dipokal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipokalLab&show_icons=true&theme=default)
 
-</center>  
+</div>
 
 <!--
 
