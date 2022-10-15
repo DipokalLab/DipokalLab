@@ -1,10 +1,13 @@
 <div align="center">
 
+![BANNER](banner.png)
 
-# 반갑습니다! 👋
+</div>
+
+## DipokalHHJ
 안녕하세요. 디포칼이란 닉네임으로 활동하고 있는 <a href="https://hhj.devent.kr/" target="_blank">허형준</a>입니다.
 
-![BABYYODA](https://c.tenor.com/um5iVP-t5FsAAAAC/baby-yoda-baby-yoda-happy.gif)
+
 
 
 <a href="https://freezing-pluto-006.notion.site/2d2f57b649ef462a92ea6fbab88eeda7" target="_blank"><img src="https://img.shields.io/badge/Project-000000?&logo=Notion&logoColor=ffffff"/></a> <a href="https://www.instagram.com/dipokal_hhj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=ffffff"/></a>
@@ -14,7 +17,6 @@
 
 ![Dipokal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipokalLab&show_icons=true&theme=default)
 
-</div>
 
 <!--
 
