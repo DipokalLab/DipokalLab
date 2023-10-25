@@ -7,6 +7,9 @@
 ## DipokalHHJ
 안녕하세요. <a href="https://hhj.devent.kr/" target="_blank">허형준</a>입니다.
 
+Software Developer.  
+React/TypeScript.  
+NodeJS/Express.  
 
 
 
