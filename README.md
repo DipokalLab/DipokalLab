@@ -15,9 +15,6 @@ NodeJS/Express.
 
 
 
-<a href="https://freezing-pluto-006.notion.site/2d2f57b649ef462a92ea6fbab88eeda7" target="_blank"><img src="https://img.shields.io/badge/Project-000000?&logo=Notion&logoColor=ffffff"/></a>
-
-
 <!--
 
 
