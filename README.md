@@ -1,11 +1,8 @@
 
 ## H. Jun Huh
  
-<a href="https://hhj.devent.kr/" target="_blank">Portfolio</a>.  
+<a href="https://hhj.devent.kr/" target="_blank">Website</a>  
 Software Engineer.  
-React/TypeScript.  
-NodeJS/Express.  
-Rust.
 
 
 
