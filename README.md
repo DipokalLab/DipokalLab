@@ -2,7 +2,6 @@
 ## H. Jun Huh
  
 <a href="https://hhj.devent.kr/" target="_blank">Website</a>  
-Software Engineer.  
 
 
 
